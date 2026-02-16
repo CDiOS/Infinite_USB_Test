@@ -1,11 +1,10 @@
 # Infinite Control Test Hardware
 
-Non-commercial, open-source USB HID test hardware used solely for
-evaluating USB input integration across a variety of simulation
+Open-source USB HID hardware  USB input integration across a variety of simulation
 platforms and in-game vehicle types.
 
 This project exists for development, testing, and compatibility
-validation only and is not intended for commercial distribution.
+validation.
 
 ## USB HID Implementation
 

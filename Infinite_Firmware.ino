@@ -1,14 +1,10 @@
 /*
-  USB HID Controller
-  Non-commercial USB input test firmware
+USB HID Controller
+Open-source USB HID hardware  USB input integration across a variety of simulation
+platforms and in-game vehicle types.
 
-  Purpose:
-  Open-source USB HID test device used solely for evaluating
-  USB controller integration across a variety of simulation
-  and interactive software platforms.
-
-  This firmware is intended for development and testing only
-  and is not intended for commercial distribution.
+This project exists for development, testing, and compatibility
+validation.
 
   USB HID functionality implemented using the Arduino
   Joystick Library by Matthew Heironimus (MIT License).
